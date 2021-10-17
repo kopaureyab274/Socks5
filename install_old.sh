@@ -158,7 +158,7 @@ echo "Socks5服务可能不会随系统开机启动"
 echo ""
 echo "默认用户名: qwe123123"
 echo "默认密码  : Qwe123123@"
-echo "默认端口  : 28801"
+echo "默认端口  : 5555"
 echo ""
 fi
 }
